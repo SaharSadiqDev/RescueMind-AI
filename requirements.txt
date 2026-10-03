@@ -1,0 +1,11 @@
+streamlit
+sqlalchemy
+pandas
+numpy
+plotly
+groq
+python-dotenv
+fastapi
+uvicorn
+pydantic
+requests
